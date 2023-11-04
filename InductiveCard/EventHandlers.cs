@@ -12,10 +12,6 @@
                     ev.IsAllowed = true;
                     return;
                 }
-                else
-                {
-                    ev.IsAllowed = false;
-                }
             }
         }
     }
